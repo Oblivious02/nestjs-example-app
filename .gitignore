@@ -1,0 +1,13 @@
+.idea
+node_modules/
+dist/
+prisma/*.db
+coverage/
+
+.DS_Store
+
+prisma/dbml
+.env
+schema.graphql
+
+npm-debug.log
